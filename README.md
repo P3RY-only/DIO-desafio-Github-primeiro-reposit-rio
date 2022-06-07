@@ -11,3 +11,4 @@
 5º [Color Hunt](https://colorhunt.co)
 
 Se os links te ajudar comente o que achou entrando em contato comigo pelo ->[Linkedin](https://www.linkedin.com/in/marcos-pery-0710b222b/)<-
+Esse foi meu primeiro desafio com Git/Github na [DIO](https://www.dio.me)!
